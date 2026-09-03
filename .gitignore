@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Local database
+*.db
+*.sqlite3
+
+# Test files and caches
+.pytest_cache/
+.coverage
